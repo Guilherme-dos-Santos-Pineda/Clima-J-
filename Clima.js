@@ -5,7 +5,7 @@
 // 5bcc12ca410fab836c7341ea82bc90dc
 
 const apiKey = "5bcc12ca410fab836c7341ea82bc90dc";
-const apiCountryURL = "https://www.countryflagicons.com/FLAT/64/";
+const apiCountryURL = "https://www.countryflagicons.com/FLAT/88/";
 //https://countryflagsapi.com/png/
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
